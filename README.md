@@ -33,6 +33,24 @@ large-scale projects.
 A variable is one of the most fundamental concepts in programming.
 It is used to store data values that can change (or vary) during the execution of a program.
 <img width="1000" height="243" alt="image" src="https://github.com/user-attachments/assets/94e91155-6ca7-48ce-acd8-744faa13e8af" />
+# 4.2 Control flow statements:
+# conditional statement:
+# if statement:
+<img width="1046" height="218" alt="image" src="https://github.com/user-attachments/assets/82f2c53d-5b70-461b-992d-41a8f150381c" />
+
+# if else statement:
+One block runs if the condition is true.The other block runs if the condition is false. if checks a condition — executes code if it’s True.else runs only if the condition is False.
+<img width="1082" height="216" alt="image" src="https://github.com/user-attachments/assets/8034ea91-0177-4b2b-a9a0-88cf4997eb98" />
+
+# elif statement:
+It lets you test more than one condition, one after another.
+<img width="1152" height="281" alt="image" src="https://github.com/user-attachments/assets/1bef465a-c38c-426e-b114-3f103e2874bb" />
+
+
+
+
+ 
+
 
 
 
