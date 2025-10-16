@@ -81,6 +81,42 @@ Lists are used to store multiple items in a single variable.Lists are one of 4 b
 
 A dictionary in Python is an unordered, mutable collection of data stored in key–value pairs.Each key is unique, and it maps to a specific value.
 Dictionaries are used to store data values in key:value pairs.A dictionary is a collection which is ordered*, changeable and do not allow duplicates.As of Python version 3.7, dictionaries are ordered. In Python 3.6 and earlier, dictionaries are unordered.Dictionaries are written with curly brackets, and have keys and values:
+# 7.3 Tuple:
+A tuple is an ordered, immutable collection of items in Python, used to store multiple values in a single variable.
+Tuples are used to store multiple items in a single variable.Tuple is one of 4 built-in data types in Python used to store collections of data, the other 3 are List, Set, and Dictionary, all with different qualities and usage.A tuple is a collection which is ordered and unchangeable.
+<img width="1159" height="248" alt="image" src="https://github.com/user-attachments/assets/1517a2a2-2982-4c92-9588-347b47b682b0" />
+
+# 7.4 Set:
+Sets are used to store multiple items in a single variable.A set is a collection which is unordered, unchangeable and the duplicates are automatically removed.
+<img width="1017" height="237" alt="image" src="https://github.com/user-attachments/assets/229aaf59-e8e7-4935-b9d7-597567293f03" />
+
+# 8 File Handling:
+File handling in Python allows you to create, read, write, and delete files stored on your computer.It uses the built-in function open() to access files.
+
+# 9 Object-Oriented Programming (OOP):
+# 9.1 classes and objects:
+A class is a blueprint or template for creating objects.It defines attributes (variables) and methods (functions) that describe the behavior of the object. An object is an instance (or a real example) of a class.When a class is defined, no memory is allocated until an object is created.
+<img width="1189" height="463" alt="image" src="https://github.com/user-attachments/assets/b45823d6-c0c4-440f-ad26-7491778841d4" />
+<img width="1093" height="477" alt="image" src="https://github.com/user-attachments/assets/2fc1b34a-1b76-45f4-bb60-5042a0e921f1" />
+
+# 9.2 inheritance and polymorphism:
+# Inheritance:
+Inheritance allows one class (child class) to inherit properties and methods from another class (parent class).It helps to reuse code and create a hierarchy between classes.
+<img width="1154" height="401" alt="image" src="https://github.com/user-attachments/assets/468e534d-6a85-4e06-a011-d892ff451334" />
+
+# Polymorphism:
+Polymorphism means “many forms”.It allows different classes to have methods with the same name, but with different behaviors.
+
+<img width="1201" height="403" alt="image" src="https://github.com/user-attachments/assets/6535447e-f556-41f1-8f01-3b9c8ec11b6a" />
+
+
+
+
+
+
+
+
+
 
 
 
