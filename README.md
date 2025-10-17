@@ -109,6 +109,15 @@ Polymorphism means “many forms”.It allows different classes to have methods 
 
 <img width="1201" height="403" alt="image" src="https://github.com/user-attachments/assets/6535447e-f556-41f1-8f01-3b9c8ec11b6a" />
 
+# Abstraction:
+The process of handling complexity by hiding unnecessary information from user is called abstraction.
+<img width="1234" height="477" alt="image" src="https://github.com/user-attachments/assets/435b48f7-4c9d-4994-86a2-b6dd36c81657" />
+
+# Encapsulation:
+Encapsulation means binding data (variables) and methods (functions) into a single unit usually a class — and restricting direct access to some data for security.It hides the object’s internal details and only allows controlled access using methods.
+Wrapping of variables and methods into single unit.
+
+
 
 
 
