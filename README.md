@@ -117,6 +117,27 @@ The process of handling complexity by hiding unnecessary information from user i
 Encapsulation means binding data (variables) and methods (functions) into a single unit usually a class — and restricting direct access to some data for security.It hides the object’s internal details and only allows controlled access using methods.
 Wrapping of variables and methods into single unit.
 
+# Error Handling:
+Error Handling in Python is the process of detecting and responding to errors that occur while a program is running, without stopping the entire program. Python provides a mechanism called Exception Handling to deal with errors safely. Error Handling helps your program continue running even when something goes wrong.
+<img width="1113" height="226" alt="image" src="https://github.com/user-attachments/assets/f6963568-9abc-402d-86e6-b306fb352c13" />
+
+Decorators:
+A decorator is a function that takes another function as input, adds some functionality to it, and returns it — all without modifying the original function. Decorators wrap a function to extend its behavior.
+
+@decorator_function → attaches the decorator
+It wraps the original function with extra code (the wrapper)
+The wrapper_function() runs before and after the original function
+<img width="1193" height="333" alt="image" src="https://github.com/user-attachments/assets/eea36eed-1722-4965-ae8b-f38cfae07b6f" />
+
+# Generators:
+A Generator in Python is a special type of function that allows you to generate values one at a time, instead of returning them all at once. Generators are functions that remember their state and produce data lazily (one value at a time).
+<img width="979" height="243" alt="image" src="https://github.com/user-attachments/assets/8c7ebba8-7439-4637-8f01-6734a8174f2d" />
+
+
+
+
+
+
 
 
 
