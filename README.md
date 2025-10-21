@@ -133,6 +133,18 @@ The wrapper_function() runs before and after the original function
 A Generator in Python is a special type of function that allows you to generate values one at a time, instead of returning them all at once. Generators are functions that remember their state and produce data lazily (one value at a time).
 <img width="979" height="243" alt="image" src="https://github.com/user-attachments/assets/8c7ebba8-7439-4637-8f01-6734a8174f2d" />
 
+# 11.3 Lambda Functions:
+A lambda function in Python is a small anonymous function — meaning it has no name and is defined using the keyword lambda.
+
+In simple terms:
+Lambda functions let you create small, one-line functions without using def.
+A lambda function is a small, anonymous function defined without a name.It take any number of arguments and it Can have only one expression.
+
+map() applies a function to all items in a list (or iterable) and returns a map object.
+filter() returns only the items in a list (or iterable) that satisfy a condition.
+sorted() returns a new sorted list from any iterable.list.sort() sorts the list in-place.
+reduce() applies a function cumulatively to items of an iterable to reduce it to a single value.
+
 
 
 
