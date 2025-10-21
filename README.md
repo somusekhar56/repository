@@ -145,6 +145,39 @@ filter() returns only the items in a list (or iterable) that satisfy a condition
 sorted() returns a new sorted list from any iterable.list.sort() sorts the list in-place.
 reduce() applies a function cumulatively to items of an iterable to reduce it to a single value.
 
+<img width="938" height="239" alt="image" src="https://github.com/user-attachments/assets/7ba5adc4-230e-4311-9817-9b6ce64f9116" />
+
+# 1.4 Higher order function:
+A higher-order function (HOF) is a function that takes another function as an argument or returns a function as its result (or both).A higher-order function is a function that works with other functions.
+<img width="929" height="298" alt="image" src="https://github.com/user-attachments/assets/c230ef2e-ea18-48c0-8df8-b49d218abf23" 
+
+  # 2.1 Mapping
+  Mapping means applying a function to every element of an iterable (like a list, tuple, or set) and returning a new iterable with the transformed results.
+  Mapping = “Apply a function to all items in a sequence.”
+  <img width="1022" height="299" alt="image" src="https://github.com/user-attachments/assets/e7fc7943-a87c-45d2-ab39-7a6b6793b1ad" />
+  
+# 2.2 Flatmap:
+A FlatMap is similar to a map() function, but with one key difference:
+map() applies a function to each element and returns a sequence of results.
+flatMap() applies a function that returns a list (or iterable) for each element and then flattens (merges) all the results into a single sequence.
+<img width="1227" height="269" alt="image" src="https://github.com/user-attachments/assets/56826079-2a4a-4484-a073-f6350ffd0271" />
+
+# 12 Unit Testing:
+Unit Testing is the process of testing individual units or components of a program in isolation.A unit can be a function, method, or class.Python provides a built-in module called unittest for writing unit tests.
+
+<img width="1282" height="357" alt="image" src="https://github.com/user-attachments/assets/524f2a0b-2e6c-41af-b09f-fbe2586ad387" />
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
